@@ -1,0 +1,45 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+
+
+.home {
+    text-align: center;
+    margin: 10px auto;
+    background-color:gray;
+    padding: 10px;
+    width: 600px;
+}
+
+
+.title {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background-color: black;
+}
+
+.introduction {
+    font-size: 22px;
+}
+
+.invite {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    padding: 10px;
+    background-color: black;
+    margin: 20px auto 10px;
+    width: 200px;
+}
+
